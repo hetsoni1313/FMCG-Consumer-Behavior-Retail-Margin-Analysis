@@ -19,6 +19,8 @@ This project analyzes retail supermarket transaction data to uncover purchasing 
 * **Insight:** Overall, Loyalty Members drive 71% more revenue in Health & Beauty. However, in the Giza branch, *non-members* actually have a higher Average Order Value ($327 vs $314 for members).
 * **Action:** Launch a targeted loyalty-acquisition campaign specifically at the Giza location to convert high-basket casual shoppers into recurring members.
 
+![Branch AOV Analysis](branch_aov.png)
+
 ### 3. Predictive Customer Segmentation (The "Who")
 Using an Unsupervised **K-Means Clustering** algorithm based on Total Spend and Satisfaction Ratings, the customer base was segmented into three distinct personas. 
 * **The "Premium Cart Loaders" (High Risk):** This cohort spends the most per trip (Avg: $697) but reports mediocre satisfaction (6.5/10) compared to lower-spending cohorts (8.6/10). 
