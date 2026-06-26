@@ -26,5 +26,6 @@ Using an Unsupervised **K-Means Clustering** algorithm based on Total Spend and 
 * **The "Premium Cart Loaders" (High Risk):** This cohort spends the most per trip (Avg: $697) but reports mediocre satisfaction (6.5/10) compared to lower-spending cohorts (8.6/10). 
 * **Action:** Introduce bulk-buy SKUs or premium member checkout lanes to improve the retail experience and prevent churn among the most valuable buyers.
 
-## 📈 Visualizations
-*(Note: Upload your heatmap.png and clusters.png to GitHub, then link them here!)*
+## Visualizations
+![Heatmap Analysis](heatmap.png)
+![Cluster Analysis](cluster.png)
